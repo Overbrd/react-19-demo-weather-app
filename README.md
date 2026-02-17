@@ -75,7 +75,7 @@ All coordinates are stored locally in `useWeather.js`.
 Clone the repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/react-19-demo-weather-app.git
+git clone https://github.com/overbrd/react-19-demo-weather-app.git
 cd react-19-demo-weather-app
 
 Install dependencies:  
@@ -101,6 +101,8 @@ Author
 Matthew C. Lind  
 Front‑End Developer • React Specialist  
 Portfolio: https://matthewlind.com  
+
+---
 
 # React + Vite
 
